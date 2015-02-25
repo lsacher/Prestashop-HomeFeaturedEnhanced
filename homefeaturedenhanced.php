@@ -1,22 +1,33 @@
-<?php
+﻿<?php
 /*
 * 
-* NOTICE OF LICENSE
+*  NOTICE OF LICENSE
 *
-* This source file is subject to the Academic Free License (AFL 3.0)
-* that is bundled with this package in the file LICENSE.txt.
-* It is also available through the world-wide-web at this URL:
-* http://opensource.org/licenses/afl-3.0.php
-* If you did not receive a copy of the license and are unable to
-* obtain it through the world-wide-web, please send an email
-* to license@prestashop.com so we can send you a copy immediately.
+*  Home Featured Enhanced 
+*  Displays random, rollover images of selected featured products for your homepage.
+*  Copyright (C) 2014  Larry Sacherich
+* 
+*  This program is distributed in the hope that it will be useful,
+*  but WITHOUT ANY WARRANTY; without even the implied warranty of 
+*  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+* 
+*  This source file is subject to the Academic Free License (AFL 3.0)
+*  that is bundled with this package in the file LICENSE.txt.
+*  It is also available through the world-wide-web at this URL:
+*  http://opensource.org/licenses/afl-3.0.php
+*  If you did not receive a copy of the license and are unable to
+*  obtain it through the world-wide-web, please send an email
+*  to license@prestashop.com so we can send you a copy immediately.
 *
 */
 
 /*
+*
+*  Designed for PrestaShop™ 1.5.6.2
+*  
 *  Home Featured Enhanced by Larry Sacherich 2014-04-20
 *  Displays random, rollover images of selected featured products for your homepage.
-*  Prestashop Version: 1.5.6.2
+*
 *  Inspired by: homefeatured rollover by Vivek Tripathi, homespecials by Nemo,
 *               homefeatured2 by Mediacom87, homefeatured by Prestashop
 *               
