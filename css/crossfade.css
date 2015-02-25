@@ -1,0 +1,21 @@
+/* crossfade - Based on http://css3.bradshawenterprises.com */
+
+  .second_img {display:inline !important;}
+  #f1_container {
+    position: relative;
+   /* margin: 10px auto;*/
+    width: 140px;
+    height: 105px;
+    z-index: 1;
+  }
+  #f1_container .face.front {
+    position:absolute;
+    left:0;
+    -webkit-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
+  }
+  #f1_container .face:hover {
+    opacity:0;
+  }  
