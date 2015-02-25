@@ -6,7 +6,9 @@ Home Featured Enhanced by Larry Sacherich 2014-04-20
 HomeFeaturedEnhanced
 Displays random, rollover images of selected featured products for your homepage.
 
-Prestashop Version: 1.5.6.2
+SEE: screenshot.png
+
+Designed for PrestaShop™ 1.5.6.2
 Inspired by: homefeatured by Prestashop, homefeatured2 by Mediacom87,
              homefeatured rollover by Vivek Tripathi, homespecials by Nemo 
 
